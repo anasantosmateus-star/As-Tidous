@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Missão Trânsito Seguro</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🚦 Missão Trânsito Seguro 🚦</h1>
+
+<div id="inicio">
+
+<p>Digite seu nome:</p>
+
+<input
+id="nome"
+type="text"
+placeholder="Seu nome">
+
+<button onclick="iniciarJogo()">
+Começar Jogo
+</button>
+
+</div>
+
+<div id="quiz">
+
+<h2 id="pergunta"></h2>
+
+<div id="respostas"></div>
+
+<p id="pontuacao">
+Pontos: 0
+</p>
+
+</div>
+
+<div id="certificado">
+
+<h1>🏆 CERTIFICADO 🏆</h1>
+
+<h2>Guardião do Trânsito</h2>
+
+<p>Certificamos que</p>
+
+<h3 id="nomeFinal"></h3>
+
+<p>
+concluiu com sucesso o jogo
+Missão Trânsito Seguro.
+</p>
+
+<p id="pontosFinal"></p>
+
+<p id="medalha"></p>
+
+<p>
+Respeitar o trânsito salva vidas.
+</p>
+
+<button onclick="reiniciar()">
+Jogar Novamente
+</button>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
