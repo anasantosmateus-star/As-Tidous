@@ -9,8 +9,8 @@ const perguntas = [
 {
 pergunta:"🚶 Onde o pedestre deve atravessar?",
 respostas:[
-"Na faixa",
 "No meio da rua",
+"Na faixa",
 "Entre carros"
 ],
 correta:0,
@@ -20,9 +20,9 @@ explicacao:"O local mais seguro é a faixa de pedestres."
 {
 pergunta:"🚦 O que significa o sinal vermelho?",
 respostas:[
-"Parar",
+"Acelerar",
 "Andar",
-"Acelerar"
+"Parar"
 ],
 correta:0,
 explicacao:"Vermelho indica parada obrigatória."
@@ -31,8 +31,8 @@ explicacao:"Vermelho indica parada obrigatória."
 {
 pergunta:"🚗 Para que serve o cinto?",
 respostas:[
-"Segurança",
 "Enfeite",
+"Segurança",
 "Decoração"
 ],
 correta:0,
@@ -42,9 +42,9 @@ explicacao:"O cinto reduz riscos em acidentes."
 {
 pergunta:"🚲 O ciclista deve:",
 respostas:[
-"Respeitar sinais",
+"Andar sem atenção",
 "Ignorar placas",
-"Andar sem atenção"
+"Respeitar os sinais"
 ],
 correta:0,
 explicacao:"Ciclistas também seguem regras."
@@ -64,8 +64,8 @@ explicacao:"Pedestres têm prioridade na faixa."
 {
 pergunta:"🚦 Qual luz vem depois do amarelo?",
 respostas:[
-"Vermelho",
 "Verde",
+"Vermelho",
 "Azul"
 ],
 correta:0,
@@ -86,8 +86,8 @@ explicacao:"A placa alerta para atenção próxima a escolas."
 {
 pergunta:"🚗 Em dias de chuva o motorista deve:",
 respostas:[
-"Reduzir velocidade",
-"Aumentar velocidade",
+"Aumentar a velocidade",
+"Diminuir a velocidade",
 "Frear bruscamente"
 ],
 correta:0,
@@ -108,9 +108,9 @@ explicacao:"Capacete ajuda a reduzir lesões."
 {
 pergunta:"🚦 O que significa luz amarela?",
 respostas:[
-"Atenção",
+"Estacionar",
 "Acelerar",
-"Estacionar"
+"Atenção"
 ],
 correta:0,
 explicacao:"Amarelo indica atenção e preparação para parar."
