@@ -193,7 +193,7 @@ pontos+=10;
 document
 .getElementById("pontuacao")
 .innerHTML=
-"Pontos: "+pontos;
+"Pontos: "+100pontos;
 
 info.innerHTML=
 perguntas[atual].explicacao;
