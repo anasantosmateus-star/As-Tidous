@@ -13,7 +13,7 @@ respostas:[
 "Na faixa",
 "Entre carros"
 ],
-correta:0,
+correta:10,
 explicacao:"O local mais seguro é a faixa de pedestres."
 },
 
