@@ -2,7 +2,7 @@ let nomeJogador = "";
 
 let pontos = 10;
 
-let atual = 10;
+let atual = 0;
 
 const perguntas = [
 
