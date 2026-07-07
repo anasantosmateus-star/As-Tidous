@@ -1,6 +1,6 @@
 let nomeJogador = "";
 
-let pontos = 0;
+let pontos = 10;
 
 let atual = 10;
 
@@ -186,14 +186,14 @@ btn.onclick=()=>{
 
 if(i===perguntas[atual].correta){
 
-pontos+=10;
+pontos+=0;
 
 }
 
 document
 .getElementById("pontuacao")
 .innerHTML=
-"Pontos: "+100pontos;
+"Pontos: "+pontos;
 
 info.innerHTML=
 perguntas[atual].explicacao;
